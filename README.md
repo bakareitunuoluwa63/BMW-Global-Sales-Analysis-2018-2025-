@@ -1,5 +1,4 @@
 # BMW-Global-Sales-Analysis-2018-2025-
-BMW Global Sales Analysis (2018–2025)
 Project Overview
 This project analyzes BMW's global sales data from 2018 to 2025. The goal was to clean the dataset, explore sales patterns, and identify trends across regions and vehicle models using Excel.
 The analysis focuses on foundational data analysis techniques such as data cleaning, pivot tables, aggregate functions, and data visualization.
@@ -76,5 +75,3 @@ Next steps for expanding this project:
 •	Building an interactive dashboard
 •	Performing sales forecasting
 •	Reproducing the analysis using Python or Power BI
-
-
